@@ -9,5 +9,5 @@ The goal of the 3 raccoons is to create a community driven service which locates
 
 - [website](https://dvb.solutions)
 - [live map](https://map.dvb.solutions)
-- [docs](https://docs.dvb.solutions)
+- [documentation](https://docs.dvb.solutions)
 
