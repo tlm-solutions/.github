@@ -1,6 +1,6 @@
-## Hi, we are Dump-DVB,
+## Hi, we are TLMS
 
-**Contact:** <dump@dvb.solutions>
+**Contact:** <hello@tlm.solutions>
 
 **Chat with us on Matrix!** https://matrix.to/#/#dump-dvb:matrix.org
 
@@ -17,6 +17,6 @@ Lastly, hardware isn’t free, so if you’d like to send us money or hardware f
 
 **Any Questions? Chat us up!?**
 - [Matrix](https://matrix.to/#/#dump-dvb:matrix.org)
-- [Contact](dump@dvb.solutions)
+- [Contact](hello@tlm.solutions)
 - [Live Map](https://map.dvb.solutions)
 - [Documentation](https://docs.dvb.solutions)
