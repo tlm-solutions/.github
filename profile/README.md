@@ -1,19 +1,15 @@
-## Hi, we are TLMS
+## Hi, we are Transit Live Mapping Solutions
 
-**Contact:** <hello@tlm.solutions>
+Enhancing openness and promoting access to Dresden public infrastructure data since 2022.
+a small group of students, currently consisting of Marenz, Tassilo and 0xA, that ended up getting seriously nerdsniped by something that started off as a small side-project during lockdown.
 
-**Chat with us on Matrix!** https://matrix.to/#/#tlm-solutions:matrix.org
+Our aim is to collect reliable real time information about public transport and make it available to everyone in a straightforward way. We are convinced that open data for commonly shared infrastructure will help contribute to a more efficient and safe state of operation. Check out the [map](https://map.tlm.solutions/) to see what we’ve built so far.
 
-We are Marenz, Tassilo and 0xA and are university students.
-In this project we are trying to give real time information about public transport to the public.
-As you can probably gather, we are from Dresden, but looking to broaden our project to include other cities in Germany as well.
-So far, that looks something like this: [Live Map](https://map.tlm.solutions/)
+The data is gathered by a network of radio receivers we have distributed across the city which collect the signals sent out by public transport vehicles. As for now we’ve focused mainly on Dresden for obvious reasons but we’d love to broaden our scope to include further cities in Germany and already have taken this into consideration in our code stack.
 
-To achieve this, we put up a network of radio receivers across the city, which listens in on the signals sent out by public transport. 
+In order to scale appropriately, help is highly appreciated! We are urgently looking for front-end developers that are able to turn this into something truly useful and testers of the software stack to ensure overall quality. Further, we are currently paying everything from our own budget, so financial support is also of great help! You can either donate directly (via [Ko-fi](https://ko-fi.com/dumpdvb)) or click us something from our [Amazon Wishlist](https://www.amazon.de/hz/wishlist/ls/379ZEGSLTRYWL?ref_=wl_share). <3
 
-To expand this project, we are looking for frontend-developers (good UI is hard, man) and testers for the full software-stack.
-We are also interested in making our receiver-network tighter and putting it up in other cities, so if you would like a pretty little window decoration that listens to public broadcasts, shoot us an [email](mailto:hello@tlm.solutions)!
-Lastly, hardware isn’t free, so if you’d like to send us money or hardware from our wishlist, we would be very thankful!
+We also look for people willing to participate in building up the radio receiver-network, so if you would like to own a pretty little window decoration that listens to public broadcasts, shoot us an [email](maito:hello@tlm.solutions)!
 
 **Any Questions? Chat us up!?**
 - [Matrix](https://matrix.to/#/#tlm-solutions:matrix.org)
