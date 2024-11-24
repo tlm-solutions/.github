@@ -9,10 +9,10 @@ The data is gathered by a network of radio receivers we have distributed across 
 
 In order to scale appropriately, help is highly appreciated! We are urgently looking for front-end developers that are able to turn this into something truly useful and testers of the software stack to ensure overall quality. Further, we are currently paying everything from our own budget, so financial support is also of great help! You can either donate directly (via [Ko-fi](https://ko-fi.com/dumpdvb)) or click us something from our [Amazon Wishlist](https://www.amazon.de/hz/wishlist/ls/379ZEGSLTRYWL?ref_=wl_share). <3
 
-We also look for people willing to participate in building up the radio receiver-network, so if you would like to own a pretty little window decoration that listens to public broadcasts, shoot us an [email](maito:hello@tlm.solutions)!
+We also look for people willing to participate in building up the radio receiver-network, so if you would like to own a pretty little window decoration that listens to public broadcasts, shoot us an [email](mailto:hello@tlm.solutions)!
 
 **Any Questions? Chat us up!?**
 - [Matrix](https://matrix.to/#/#tlm-solutions:matrix.org)
-- [Contact](hello@tlm.solutions)
+- [Contact](mailto:hello@tlm.solutions)
 - [Live Map](https://map.tlm.solutions)
 - [Documentation](https://docs.tlm.solutions)
