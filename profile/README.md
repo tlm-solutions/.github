@@ -12,9 +12,8 @@ The data is collected via a network of radio receivers distributed across the ci
 
 The project is largely finished. The infrastructure is still running and occasionally maintained, but this is now mostly a snapshot of what we built at the time.
 
-Any questions? Chat us up.
+## Any questions? Chat us up.
 
-Matrix: https://matrix.to/#/#tlm-solutions:matrix.org
-Email: hello@tlm.solutions
-Live Map: https://map.tlm.solutions
-Documentation: https://docs.tlm.solutions
+- Matrix: https://matrix.to/#/#tlm-solutions:matrix.org
+- Email: hello@tlm.solutions
+- Live Map: https://map.tlm.solutions
